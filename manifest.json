@@ -1,0 +1,17 @@
+{
+  "name": "Line-Check",
+  "short_name": "Line-Check",
+  "description": "Audit koordinátorů výroby — Yanfeng Planá nad Lužnicí",
+  "start_url": "./Line-Check.html",
+  "display": "standalone",
+  "background_color": "#F4F5F7",
+  "theme_color": "#003087",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='24' fill='%23003087'/><text x='96' y='130' font-size='100' text-anchor='middle' fill='white'>✓</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
